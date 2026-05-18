@@ -19,4 +19,4 @@ Currently building a secure job-application platform.
 
 ## Interests
 - Cybersecurity
-- Self-hosted infrastructure
+- Self-hosting
